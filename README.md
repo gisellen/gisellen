@@ -9,14 +9,16 @@ im 21 years old, from nyc.  i am a computer science student, artist, and aspirin
 <div align="center"> i like to bring ideas to life! (๑˘︶˘๑) </div>
 
 <br /> <br />
-<img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s" align="left" width="300px">
+<img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s" align="left" width="450px">
 **ᴛᴇᴄʜɴɪᴄᴀʟ ɪɴᴛᴇʀᴇꜱᴛꜱ** <br />
+----
 • web and mobile development <br />
 • game development <br />
 • UI/UX design <br />
 • computer graphics
 
 **ʜᴏʙʙɪᴇꜱ** <br />
+----
 • digital and 3d art <br />
 • gaming, kingdom hearts is my favorite! <br />
 • music and cinema <br />
