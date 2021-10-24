@@ -1,5 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+<img width="50px" height="50px" src="https://media4.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif?cid=ecf05e474ecyyq9gcwkv2sbw4jjw8p1xt5quoaotaibenjzg&rid=giphy.gif&ct=s">ᴡᴇʟᴄᴏᴍᴇ 
+</h1>
+<img width="300px" align="right" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif">
+hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 
+im 21 years old, from nyc.  i am a computer science student, artist, and aspiring developer. i currently spend a lot of time creating art for people but i dabble on developing on my downtime.
+
+<div align="center"> i like to bring ideas to life! (๑˘︶˘๑) </div>
+
+<br /> <br />
+<img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s" align="left" width="300px">
+**ᴛᴇᴄʜɴɪᴄᴀʟ ɪɴᴛᴇʀᴇꜱᴛꜱ** <br />
+• web development <br />
+• mobile development <br />
+• game development <br />
+• UI/UX design <br />
+• computer graphics
+
+**ʜᴏʙʙɪᴇꜱ** <br />
+• digital and 3d art <br />
+• gaming, kingdom hearts is my favorite! <br />
+• music and cinema <br />
+• fashion <br />
 <!--
 **gisellen/gisellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
