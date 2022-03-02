@@ -4,7 +4,7 @@
 <img width="300px" align="right" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif">
 hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 
-im 21 years old, from nyc.  i am a computer science student, artist, and aspiring developer. i currently spend a lot of time creating art for people but i dabble on developing on my downtime.
+im 21 years old, from nyc.  i am a computer science student, artist, and developer. i currently spend a lot of time creating art for people but i dabble on developing on my downtime.
 
 <div align="center"> i like to bring ideas to life! (๑˘︶˘๑) </div>
 
