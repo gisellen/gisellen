@@ -15,7 +15,7 @@ im 21 years old, from nyc.  i am a computer science student, artist, and develop
 • web and mobile development <br />
 • UI/UX design <br />
 • game development <br />
-• Python <br />
+• python <br />
 • computer graphics
 
 **ʜᴏʙʙɪᴇꜱ** <br />
