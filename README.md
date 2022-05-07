@@ -22,7 +22,7 @@ im 21 years old, from nyc.  i am a computer science student, artist, and develop
 ----
 • digital and 3d art <br />
 • gaming, kingdom hearts is my favorite! <br />
-• video editing <br />
+• streaming + video editing <br />
 • fashion <br />
 <!--
 **gisellen/gisellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
