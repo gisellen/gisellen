@@ -5,7 +5,7 @@
 hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 
 im 21 years old, from nyc.  i am an artist and developer.<br>
-<a href="https://gisellen.github.io/portfolio/"> work in progress portfolio </a>
+<a href="https://gisellen.github.io/portfolio/"> check out my site! </a>
 <div align="center"> i like to bring ideas to life! (๑˘︶˘๑) </div>
 
 <br /> <br />
