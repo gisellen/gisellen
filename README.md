@@ -4,7 +4,7 @@
 <img width="300px" align="right" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif">
 hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 
-im 21 years old, from nyc.  i am a computer science student, artist, and developer.<br>
+im 21 years old, from nyc.  i am an artist and developer.<br>
 <a href="https://gisellen.github.io/portfolio/"> work in progress portfolio </a>
 <div align="center"> i like to bring ideas to life! (๑˘︶˘๑) </div>
 
