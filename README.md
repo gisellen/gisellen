@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
+hi, i'm giselle! <br />
 
 im 22 years old, from nyc.  i am an artist and software engineer.<br />
 
